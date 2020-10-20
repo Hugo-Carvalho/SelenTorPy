@@ -4,8 +4,9 @@ from selenium.webdriver.common.by import By
 from pyautogui import press, typewrite, hotkey
 import os, time
 
-torexe = os.popen(r"C:\Users\hugan\Desktop\Tor Browser\Browser\firefox.exe")
-profile = FirefoxProfile(r"C:\Users\hugan\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
+torexe = os.popen(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe")
+
+profile = FirefoxProfile(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
 
 profile.set_preference('network.proxy.type', 1)
 profile.set_preference('network.proxy.socks', '127.0.0.1')
@@ -27,13 +28,14 @@ for cod in cods:
         info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
         print(info)
     except:
-        torexe = os.popen(r"C:\Users\hugan\Desktop\Tor Browser\Browser\firefox.exe")
-
-        time.sleep(5)
-        press('enter')
+        os.system("taskkill  /f /im tor.exe")
+        driver.quit()
         time.sleep(2)
+        torexe = os.popen(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe")
 
-        profile = FirefoxProfile(r"C:\Users\hugan\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
+        
+
+        profile = FirefoxProfile(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
 
         profile.set_preference('network.proxy.type', 1)
         profile.set_preference('network.proxy.socks', '127.0.0.1')
@@ -46,3 +48,6 @@ for cod in cods:
         time.sleep(5)
         info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
         print(info)
+
+
+
