@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from selenium.webdriver.common.by import By
-from pyautogui import press, typewrite, hotkey
 import re
 import os, time
 
@@ -14,9 +13,9 @@ for line in lines:
 
 
 
-torexe = os.popen(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe")
+torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
 
-profile = FirefoxProfile(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
+profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
 
 profile.set_preference('network.proxy.type', 1)
 profile.set_preference('network.proxy.socks', '127.0.0.1')
@@ -34,6 +33,7 @@ base_url = "https://pt.product-search.net/?q="
 cods = tuple (codslist)
 
 NOTFOund = ''
+info=''
 
 errorTomorrow = False
 oneElement = False
@@ -41,7 +41,8 @@ listElements= False
 excessiveUse = False
 
 for cod in cods:  
-
+    
+    driver.get(base_url + cod)
     # Não encontrado
     try:
         NOTFOund = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > h2:nth-child(1)").text
@@ -67,37 +68,37 @@ for cod in cods:
         listElements=False
 
     # Excessive USe
+    #try:
+     #   driver.find_element(By.XPATH, "//body[contains(text(),'Excessive use')]")
+      #  excessiveUse = True
+    #except:
+     #   excessiveUse = False
+
+
     try:
-        driver.find_element(By.XPATH, "//body[contains(text(),'Excessive use')]")
-        excessiveUse = True
-    except:
-        excessiveUse = False
-
-
+        
     
-    driver.get(base_url + cod)
-    
-    time.sleep(2)
-    if errorTomorrow:
-        info = "Não encontrado."
-    elif oneElement:
-        info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a")
-    elif listElements:
-        listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
-        for elemento in listElementos:
-            info = elemento.text
-        print(info)
-    elif excessiveUse:
-        # TODO reiniciar a session TOR
-        excessiveUse = False
+        time.sleep(2)
+        if errorTomorrow:
+            info = "Não encontrado."
+        elif oneElement:
+            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
+        elif listElements:
+            listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
+            for elemento in listElementos:
+                info = elemento.text
+            print(info)
+        #elif excessiveUse:
+            # TODO reiniciar a session TOR
+            #excessiveUse = False
 
     except :
         os.system("taskkill  /f /im tor.exe")
         driver.quit()
         time.sleep(2)
-        torexe = os.popen(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe")
+        torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
 
-        profile = FirefoxProfile(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
+        profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
 
         profile.set_preference('network.proxy.type', 1)
         profile.set_preference('network.proxy.socks', '127.0.0.1')
@@ -107,7 +108,7 @@ for cod in cods:
         driver = webdriver.Firefox(firefox_profile= profile, executable_path=r'geckodriver.exe')
 
         driver.get(base_url + cod)
-        time.sleep(5)
+    
         
         time.sleep(2)
         if errorTomorrow:
@@ -118,12 +119,12 @@ for cod in cods:
             listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
             for elemento in listElementos:
                 info = elemento.text
-        print(info)
+            print(info)
         elif excessiveUse:
-            # TODO reiniciar a session TOR
+        # TO DO reiniciar a session TOR
             pass
             
-    print(info + '')
+    print(info)
 
             
 

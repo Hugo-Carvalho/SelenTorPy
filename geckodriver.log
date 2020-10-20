@@ -2729,3 +2729,311 @@ extension-storage: migration complete
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1603199504714	geckodriver	INFO	Listening on 127.0.0.1:53963
+1603199508749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileh3QGd0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603199511097	Marionette	INFO	Listening on port 53974
+1603199511416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603199523470	Marionette	INFO	Stopped listening on port 53974
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603199526218	geckodriver	INFO	Listening on 127.0.0.1:54035
+1603199530017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilefoBUik"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603199532702	Marionette	INFO	Listening on port 54044
+1603199533195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603199650971	Marionette	INFO	Stopped listening on port 54044
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603199653746	geckodriver	INFO	Listening on 127.0.0.1:54110
+1603199657564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileA6WwTL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603199659694	Marionette	INFO	Listening on port 54119
+1603199659711	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+1603205360514	Marionette	INFO	Stopped listening on port 54119
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofilelASDe6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603203657642	Marionette	INFO	Listening on port 54690
+1603203658021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603206669532	Marionette	INFO	Stopped listening on port 54690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofileKc3cj0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603204023839	Marionette	INFO	Listening on port 54806
+1603204024290	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603204312488	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1603206670020	Marionette	INFO	Stopped listening on port 54806
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofilebTBvix"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603204364140	Marionette	INFO	Listening on port 54936
+1603204364401	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603206670067	Marionette	INFO	Stopped listening on port 54936
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofileZqSDRk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603204417443	Marionette	INFO	Listening on port 54994
+1603204417890	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603206670896	Marionette	INFO	Stopped listening on port 54994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofileewedYu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603204473166	Marionette	INFO	Listening on port 55065
+1603204473288	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603204482674	Marionette	INFO	Stopped listening on port 55065
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603206369122	geckodriver	INFO	Listening on 127.0.0.1:55571
+1603206373012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileCa3pKs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603206375785	Marionette	INFO	Listening on port 55579
+1603206376172	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603206426555	Marionette	INFO	Stopped listening on port 55579
+[Parent 19276, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603206532511	geckodriver	INFO	Listening on 127.0.0.1:55649
+1603206536398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilemaVswd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603206539158	Marionette	INFO	Listening on port 55658
+1603206539566	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603206672529	Marionette	INFO	Stopped listening on port 55658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofilePjMaPy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+extension-storage: migration complete
+1603206590295	Marionette	INFO	Listening on port 55731
+1603206590701	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 15864, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1603206673306	Marionette	INFO	Stopped listening on port 55731
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603206687682	geckodriver	INFO	Listening on 127.0.0.1:55793
+1603206691577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofilescyA4f"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603206694503	Marionette	INFO	Listening on port 55802
+1603206694771	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603206703052	Marionette	INFO	Stopped listening on port 55802
+[Parent 17680, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603206705957	geckodriver	INFO	Listening on 127.0.0.1:55862
+1603206709852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileXleEcS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603206714020	Marionette	INFO	Listening on port 55873
+1603206714040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 11560, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1603206719449	Marionette	INFO	Stopped listening on port 55873
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603206721667	geckodriver	INFO	Listening on 127.0.0.1:55931
+1603206725650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofiletPHT7P"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+extension-storage: migration complete
+1603206728919	Marionette	INFO	Listening on port 55939
+1603206729320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603206967826	Marionette	INFO	Stopped listening on port 55939
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileVZCIfO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603206938225	Marionette	INFO	Listening on port 56044
+1603206938610	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11472, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603206969382	Marionette	INFO	Stopped listening on port 56044
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603207013069	geckodriver	INFO	Listening on 127.0.0.1:56110
+1603207016998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofile11gpy9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://099f462c-60a6-4110-a427-09d908d3916e/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603207020226	Marionette	INFO	Listening on port 56120
+1603207020697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603207125767	Marionette	INFO	Stopped listening on port 56120
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
