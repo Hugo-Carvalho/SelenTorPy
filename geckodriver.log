@@ -663,3 +663,2069 @@ extension-storage: migration complete
 1603154651935	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603155022686	Marionette	INFO	Stopped listening on port 65216
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603155109737	geckodriver	INFO	Listening on 127.0.0.1:49302
+1603155113354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilelQSe6R"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603155116065	Marionette	INFO	Listening on port 49316
+1603155116525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603155152741	Marionette	INFO	Stopped listening on port 49316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603155155588	geckodriver	INFO	Listening on 127.0.0.1:49392
+1603155159173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileD8YnPd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603155161912	Marionette	INFO	Listening on port 49404
+1603155162346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603155198251	Marionette	INFO	Stopped listening on port 49404
+[Parent 29224, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603155201209	geckodriver	INFO	Listening on 127.0.0.1:49477
+1603155204871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile6fEfHE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603155207561	Marionette	INFO	Listening on port 49493
+1603155208064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603155257200	Marionette	INFO	Stopped listening on port 49493
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603155260030	geckodriver	INFO	Listening on 127.0.0.1:49579
+1603155263635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileosYxy4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603155266222	Marionette	INFO	Listening on port 49593
+1603155266284	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7844, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603155308599	Marionette	INFO	Stopped listening on port 49593
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157424697	geckodriver	INFO	Listening on 127.0.0.1:51626
+1603157428300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilealU3o6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603157430835	Marionette	INFO	Listening on port 51638
+1603157430942	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28756, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603157438259	Marionette	INFO	Stopped listening on port 51638
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157571969	geckodriver	INFO	Listening on 127.0.0.1:51831
+1603157575529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilepswwDd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603157577903	Marionette	INFO	Listening on port 51845
+extension-storage: migration complete
+1603157578165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603157583277	Marionette	INFO	Stopped listening on port 51845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157586036	geckodriver	INFO	Listening on 127.0.0.1:51899
+1603157589637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileabF0wx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603157592079	Marionette	INFO	Listening on port 51910
+1603157592276	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26072, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603157603532	Marionette	INFO	Stopped listening on port 51910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157614946	geckodriver	INFO	Listening on 127.0.0.1:51976
+1603157618519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilepSYTgo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603157620827	Marionette	INFO	Listening on port 51988
+1603157621175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603157621198	Marionette	INFO	Stopped listening on port 51988
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157673073	geckodriver	INFO	Listening on 127.0.0.1:52106
+1603157676620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile6AMzpR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603157678907	Marionette	INFO	Listening on port 52118
+extension-storage: migration complete
+1603157679268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603157684464	Marionette	INFO	Stopped listening on port 52118
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157687221	geckodriver	INFO	Listening on 127.0.0.1:52167
+1603157690799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileAQorPm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603157693202	Marionette	INFO	Listening on port 52180
+extension-storage: migration complete
+1603157693435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603157698704	Marionette	INFO	Stopped listening on port 52180
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158170626	geckodriver	INFO	Listening on 127.0.0.1:52669
+1603158174229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilepX0zXs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603158176729	Marionette	INFO	Listening on port 52681
+extension-storage: migration complete
+1603158176873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603158183275	Marionette	INFO	Stopped listening on port 52681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158186166	geckodriver	INFO	Listening on 127.0.0.1:52731
+1603158189735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileQUOcl8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603158192149	Marionette	INFO	Listening on port 52745
+1603158192380	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603158206761	Marionette	INFO	Stopped listening on port 52745
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158342403	geckodriver	INFO	Listening on 127.0.0.1:52933
+1603158345988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileldt0PS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603158348462	Marionette	INFO	Listening on port 52943
+extension-storage: migration complete
+1603158348663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603158356578	Marionette	INFO	Stopped listening on port 52943
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158359360	geckodriver	INFO	Listening on 127.0.0.1:52999
+1603158362939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilereS2bc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603158365312	Marionette	INFO	Listening on port 53012
+1603158365570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159943488	Marionette	INFO	Stopped listening on port 53012
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileIypGzU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: TypeError: can't access dead object
+1603158515427	Marionette	INFO	Listening on port 53456
+extension-storage: migration complete
+1603158515721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603158521090	Marionette	INFO	Stopped listening on port 53456
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158523838	geckodriver	INFO	Listening on 127.0.0.1:53506
+1603158527399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileeotW4U"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603158529985	Marionette	INFO	Listening on port 53519
+1603158530056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603158550055	Marionette	INFO	Stopped listening on port 53519
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158567326	geckodriver	INFO	Listening on 127.0.0.1:53691
+1603158570890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileTcfbpA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603158573177	Marionette	INFO	Listening on port 53702
+1603158573537	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603158580034	Marionette	INFO	Stopped listening on port 53702
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158582908	geckodriver	INFO	Listening on 127.0.0.1:53747
+1603158586488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileKwXDCP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603158589023	Marionette	INFO	Listening on port 53758
+1603158589133	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603158604735	Marionette	INFO	Stopped listening on port 53758
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158717986	geckodriver	INFO	Listening on 127.0.0.1:53855
+1603158721575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilekRrNIw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603158723940	Marionette	INFO	Listening on port 53865
+extension-storage: migration complete
+1603158724222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603158729288	Marionette	INFO	Stopped listening on port 53865
+[Parent 29460, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158731946	geckodriver	INFO	Listening on 127.0.0.1:53911
+1603158735481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileYNIzlD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603158737786	Marionette	INFO	Listening on port 53924
+extension-storage: migration complete
+1603158738127	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23848, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603158763046	Marionette	INFO	Stopped listening on port 53924
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603158810315	geckodriver	INFO	Listening on 127.0.0.1:54045
+1603158813893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile9UV4Jl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603158816295	Marionette	INFO	Listening on port 54058
+extension-storage: migration complete
+1603158816552	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13760, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603158819911	Marionette	INFO	Stopped listening on port 54058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159097230	geckodriver	INFO	Listening on 127.0.0.1:54239
+1603159100795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileS6wITQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603159103272	Marionette	INFO	Listening on port 54251
+extension-storage: migration complete
+1603159103432	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23540, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603159109628	Marionette	INFO	Stopped listening on port 54251
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159255322	geckodriver	INFO	Listening on 127.0.0.1:54406
+1603159258902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileuQE07H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603159261350	Marionette	INFO	Listening on port 54417
+extension-storage: migration complete
+1603159261546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159943049	Marionette	INFO	Stopped listening on port 54417
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileC4eMND"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603159330165	Marionette	INFO	Listening on port 54551
+extension-storage: migration complete
+1603159330356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159335220	Marionette	INFO	Stopped listening on port 54551
+[Parent 9324, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159337998	geckodriver	INFO	Listening on 127.0.0.1:54601
+1603159341563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileTH4f9m"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603159343996	Marionette	INFO	Listening on port 54615
+extension-storage: migration complete
+1603159344201	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28480, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603159943488	Marionette	INFO	Stopped listening on port 54615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: TypeError: can't access dead object
+1603159423716	Marionette	INFO	Listening on port 54706
+extension-storage: migration complete
+1603159423910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159429697	Marionette	INFO	Stopped listening on port 54706
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159432462	geckodriver	INFO	Listening on 127.0.0.1:54755
+1603159436025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileYd4GLU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603159438521	Marionette	INFO	Listening on port 54767
+extension-storage: migration complete
+1603159438673	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25024, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603159461303	Marionette	INFO	Stopped listening on port 54767
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159486167	geckodriver	INFO	Listening on 127.0.0.1:54850
+1603159489762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileWUF32x"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603159492203	Marionette	INFO	Listening on port 54860
+1603159492393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159497638	Marionette	INFO	Stopped listening on port 54860
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159500401	geckodriver	INFO	Listening on 127.0.0.1:54909
+1603159503972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileGoDqG4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603159506367	Marionette	INFO	Listening on port 54923
+extension-storage: migration complete
+1603159506623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159943447	Marionette	INFO	Stopped listening on port 54923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile10QVCU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603159674795	Marionette	INFO	Listening on port 55174
+extension-storage: migration complete
+1603159674865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159686768	Marionette	INFO	Stopped listening on port 55174
+[Parent 28220, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159689565	geckodriver	INFO	Listening on 127.0.0.1:55226
+1603159693152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilezKb6qd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603159695811	Marionette	INFO	Listening on port 55237
+extension-storage: migration complete
+1603159696323	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode52, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:260:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1603159943457	Marionette	INFO	Stopped listening on port 55237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+9490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileURTJ5H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603159841980	Marionette	INFO	Listening on port 55866
+1603159842136	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603159866489	Marionette	INFO	Stopped listening on port 55866
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159881960	geckodriver	INFO	Listening on 127.0.0.1:56145
+1603159885537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilelhsU5T"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603159888181	Marionette	INFO	Listening on port 56156
+1603159888191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159915772	Marionette	INFO	Stopped listening on port 56156
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159918506	geckodriver	INFO	Listening on 127.0.0.1:56217
+1603159922086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofiler9tMjf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603159924691	Marionette	INFO	Listening on port 56228
+1603159924728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159938873	Marionette	INFO	Stopped listening on port 56228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159954570	geckodriver	INFO	Listening on 127.0.0.1:56297
+1603159958160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileCRf9oc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603159960558	Marionette	INFO	Listening on port 56308
+extension-storage: migration complete
+1603159960821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603159987113	Marionette	INFO	Stopped listening on port 56308
+[Parent 22064, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159989802	geckodriver	INFO	Listening on 127.0.0.1:56571
+1603159993388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileGJvr28"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603159995762	Marionette	INFO	Listening on port 56583
+1603159996043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603160011571	Marionette	INFO	Stopped listening on port 56583
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160071810	geckodriver	INFO	Listening on 127.0.0.1:56792
+1603160075404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileQKroUd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603160077781	Marionette	INFO	Listening on port 56804
+extension-storage: migration complete
+1603160078063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603160103663	Marionette	INFO	Stopped listening on port 56804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160106601	geckodriver	INFO	Listening on 127.0.0.1:56862
+1603160110163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile2XYcFz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603160112435	Marionette	INFO	Listening on port 56875
+1603160112799	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode52, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:260:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1603160349979	Marionette	INFO	Stopped listening on port 56875
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603160295623	Marionette	INFO	Listening on port 57211
+extension-storage: migration complete
+1603160295811	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603160349967	Marionette	INFO	Stopped listening on port 57211
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160463954	geckodriver	INFO	Listening on 127.0.0.1:57469
+1603160467556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileMVtNnJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603160470042	Marionette	INFO	Listening on port 57482
+1603160470195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603160500778	Marionette	INFO	Stopped listening on port 57482
+[Parent 15044, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160582034	geckodriver	INFO	Listening on 127.0.0.1:57605
+1603160585630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileUbgWc3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603160587944	Marionette	INFO	Listening on port 57618
+extension-storage: migration complete
+1603160588268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603160622521	Marionette	INFO	Stopped listening on port 57618
+[Parent 13060, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160683692	geckodriver	INFO	Listening on 127.0.0.1:57749
+1603160687302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileU0DPP8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603160689582	Marionette	INFO	Listening on port 57762
+1603160689952	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603160716456	Marionette	INFO	Stopped listening on port 57762
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160857292	geckodriver	INFO	Listening on 127.0.0.1:58004
+1603160860873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileLgSqAR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603160863306	Marionette	INFO	Listening on port 58017
+extension-storage: migration complete
+1603160863527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603160890189	Marionette	INFO	Stopped listening on port 58017
+[Parent 18612, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160892959	geckodriver	INFO	Listening on 127.0.0.1:58078
+1603160896555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilezfXi5r"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603160898953	Marionette	INFO	Listening on port 58091
+1603160899188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162530502	Marionette	INFO	Stopped listening on port 58091
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofiletc9wgE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603160995286	Marionette	INFO	Listening on port 58216
+extension-storage: migration complete
+1603160995510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603160999920	Marionette	INFO	Stopped listening on port 58216
+[Parent 3464, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161002567	geckodriver	INFO	Listening on 127.0.0.1:58263
+1603161006154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileS6OHJH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603161008537	Marionette	INFO	Listening on port 58276
+1603161008808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161037397	Marionette	INFO	Stopped listening on port 58276
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161040214	geckodriver	INFO	Listening on 127.0.0.1:58350
+1603161043785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileAlicV8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603161046275	Marionette	INFO	Listening on port 58362
+1603161046423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161096530	Marionette	INFO	Stopped listening on port 58362
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161170944	geckodriver	INFO	Listening on 127.0.0.1:58550
+1603161174511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilexe14NU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603161176866	Marionette	INFO	Listening on port 58560
+extension-storage: migration complete
+1603161177168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161203062	Marionette	INFO	Stopped listening on port 58560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161205774	geckodriver	INFO	Listening on 127.0.0.1:58617
+1603161209359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileJNT4LF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603161211743	Marionette	INFO	Listening on port 58630
+1603161212020	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30196, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603161224330	Marionette	INFO	Stopped listening on port 58630
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161244668	geckodriver	INFO	Listening on 127.0.0.1:58736
+1603161248259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileZFJbAh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603161250608	Marionette	INFO	Listening on port 58748
+extension-storage: migration complete
+1603161250897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161255303	Marionette	INFO	Stopped listening on port 58748
+[Parent 2520, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161258064	geckodriver	INFO	Listening on 127.0.0.1:58800
+1603161261617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile0m3v0E"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603161263929	Marionette	INFO	Listening on port 58813
+extension-storage: migration complete
+1603161264255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161272865	Marionette	INFO	Stopped listening on port 58813
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161421256	geckodriver	INFO	Listening on 127.0.0.1:59128
+1603161424839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileHtR5Y2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603161427227	Marionette	INFO	Listening on port 59141
+extension-storage: migration complete
+1603161427489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161432134	Marionette	INFO	Stopped listening on port 59141
+[Parent 11008, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161587929	geckodriver	INFO	Listening on 127.0.0.1:59370
+1603161591491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileBHd5Fl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603161593930	Marionette	INFO	Listening on port 59382
+1603161594151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161599556	Marionette	INFO	Stopped listening on port 59382
+[Parent 18968, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161602212	geckodriver	INFO	Listening on 127.0.0.1:59433
+1603161605786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileBYRy3w"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603161608124	Marionette	INFO	Listening on port 59445
+extension-storage: migration complete
+1603161608445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161615800	Marionette	INFO	Stopped listening on port 59445
+[Parent 27824, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161618572	geckodriver	INFO	Listening on 127.0.0.1:59501
+1603161622146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilenQdXZf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603161624489	Marionette	INFO	Listening on port 59514
+extension-storage: migration complete
+1603161624805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161637944	Marionette	INFO	Stopped listening on port 59514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161640595	geckodriver	INFO	Listening on 127.0.0.1:59569
+1603161644177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileZM7fD8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603161646629	Marionette	INFO	Listening on port 59582
+1603161646836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161653425	Marionette	INFO	Stopped listening on port 59582
+[Parent 2520, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161656182	geckodriver	INFO	Listening on 127.0.0.1:59636
+1603161659760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile9kXnC5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603161662235	Marionette	INFO	Listening on port 59649
+1603161662413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161670197	Marionette	INFO	Stopped listening on port 59649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161672969	geckodriver	INFO	Listening on 127.0.0.1:59701
+1603161676533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilepALhhG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603161678801	Marionette	INFO	Listening on port 59712
+1603161679166	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603161684114	Marionette	INFO	Stopped listening on port 59712
+[Parent 18124, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161686880	geckodriver	INFO	Listening on 127.0.0.1:59764
+1603161690457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileXyOOwn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603161692807	Marionette	INFO	Listening on port 59773
+extension-storage: migration complete
+1603161693086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161698618	Marionette	INFO	Stopped listening on port 59773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161701384	geckodriver	INFO	Listening on 127.0.0.1:59822
+1603161704955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileEyjFut"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603161707295	Marionette	INFO	Listening on port 59835
+extension-storage: migration complete
+1603161707616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161715818	Marionette	INFO	Stopped listening on port 59835
+[Parent 29540, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161718455	geckodriver	INFO	Listening on 127.0.0.1:59885
+1603161722007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileh4NGL2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603161724443	Marionette	INFO	Listening on port 59898
+1603161724646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162530494	Marionette	INFO	Stopped listening on port 59898
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilexYW7n9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603161834274	Marionette	INFO	Listening on port 60148
+extension-storage: migration complete
+1603161834555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161834716	Marionette	INFO	Stopped listening on port 60148
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Parent 31544, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161837483	geckodriver	INFO	Listening on 127.0.0.1:60186
+1603161841068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileB1UmTj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603161843783	Marionette	INFO	Listening on port 60197
+1603161844218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161850696	Marionette	INFO	Stopped listening on port 60197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161853468	geckodriver	INFO	Listening on 127.0.0.1:60256
+1603161857028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileBMEauL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603161859416	Marionette	INFO	Listening on port 60267
+extension-storage: migration complete
+1603161859668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161859830	Marionette	INFO	Stopped listening on port 60267
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161902351	geckodriver	INFO	Listening on 127.0.0.1:60338
+1603161905953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile0LZogG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603161908553	Marionette	INFO	Listening on port 60349
+1603161908607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161908765	Marionette	INFO	Stopped listening on port 60349
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161911542	geckodriver	INFO	Listening on 127.0.0.1:60386
+1603161915115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileVr4OWr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603161917662	Marionette	INFO	Listening on port 60397
+1603161917768	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603161922810	Marionette	INFO	Stopped listening on port 60397
+[Parent 25348, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161925713	geckodriver	INFO	Listening on 127.0.0.1:60445
+1603161929288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileK283xW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603161931653	Marionette	INFO	Listening on port 60458
+extension-storage: migration complete
+1603161931937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603161932099	Marionette	INFO	Stopped listening on port 60458
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161934861	geckodriver	INFO	Listening on 127.0.0.1:60494
+1603162007212	geckodriver	INFO	Listening on 127.0.0.1:60603
+1603162010791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilepMoQhh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603162013175	Marionette	INFO	Listening on port 60615
+extension-storage: migration complete
+1603162013435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162018441	Marionette	INFO	Stopped listening on port 60615
+[Parent 30432, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162021202	geckodriver	INFO	Listening on 127.0.0.1:60664
+1603162024789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilekswo0S"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603162027157	Marionette	INFO	Listening on port 60678
+extension-storage: migration complete
+1603162027442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162049370	Marionette	INFO	Stopped listening on port 60678
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileZnKA5I"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603162040999	Marionette	INFO	Listening on port 60738
+extension-storage: migration complete
+1603162041244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162047513	Marionette	INFO	Stopped listening on port 60738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162086585	geckodriver	INFO	Listening on 127.0.0.1:60831
+1603162090178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofiletXHLL2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603162092690	Marionette	INFO	Listening on port 60842
+1603162092816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162097418	Marionette	INFO	Stopped listening on port 60842
+[Parent 27924, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162100247	geckodriver	INFO	Listening on 127.0.0.1:60894
+1603162103836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile8m47rE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603162106451	Marionette	INFO	Listening on port 60907
+1603162106476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162115018	Marionette	INFO	Stopped listening on port 60907
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 24068, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162115771	geckodriver	INFO	Listening on 127.0.0.1:60956
+1603162119366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileQzXb2o"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603162121690	Marionette	INFO	Listening on port 60968
+extension-storage: migration complete
+1603162122026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162128706	Marionette	INFO	Stopped listening on port 60968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162129503	geckodriver	INFO	Listening on 127.0.0.1:61018
+1603162133162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile5GnmAK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603162135983	Marionette	INFO	Listening on port 61032
+1603162136316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162142739	Marionette	INFO	Stopped listening on port 61032
+[Parent 5464, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162143509	geckodriver	INFO	Listening on 127.0.0.1:61082
+1603162147132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile2XqrPr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603162149759	Marionette	INFO	Listening on port 61093
+1603162149793	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603162156475	Marionette	INFO	Stopped listening on port 61093
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162157462	geckodriver	INFO	Listening on 127.0.0.1:61153
+1603162161047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofiletDN1XT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603162163596	Marionette	INFO	Listening on port 61164
+1603162163704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162170690	Marionette	INFO	Stopped listening on port 61164
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162171423	geckodriver	INFO	Listening on 127.0.0.1:61211
+1603162175019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileBKFre1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603162177422	Marionette	INFO	Listening on port 61225
+extension-storage: migration complete
+1603162177670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162182713	Marionette	INFO	Stopped listening on port 61225
+[Parent 31344, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162183462	geckodriver	INFO	Listening on 127.0.0.1:61274
+1603162187038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileXXRqGW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603162189473	Marionette	INFO	Listening on port 61282
+extension-storage: migration complete
+1603162189676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162194820	Marionette	INFO	Stopped listening on port 61282
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162197559	geckodriver	INFO	Listening on 127.0.0.1:61345
+1603162201132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileaYvyyL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603162203539	Marionette	INFO	Listening on port 61358
+extension-storage: migration complete
+1603162203779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162211426	Marionette	INFO	Stopped listening on port 61358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162212164	geckodriver	INFO	Listening on 127.0.0.1:61405
+1603162215724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilemZehla"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603162218138	Marionette	INFO	Listening on port 61417
+1603162218365	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22848, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603162227011	Marionette	INFO	Stopped listening on port 61417
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162266707	geckodriver	INFO	Listening on 127.0.0.1:61522
+1603162270289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileW87mlB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603162272889	Marionette	INFO	Listening on port 61534
+1603162272926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162277234	Marionette	INFO	Stopped listening on port 61534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162279994	geckodriver	INFO	Listening on 127.0.0.1:61582
+1603162283560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileRaemtP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603162286054	Marionette	INFO	Listening on port 61595
+extension-storage: migration complete
+1603162286211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162294424	Marionette	INFO	Stopped listening on port 61595
+[Parent 576, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162295193	geckodriver	INFO	Listening on 127.0.0.1:61646
+1603162298783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileR9pn4J"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603162301323	Marionette	INFO	Listening on port 61659
+1603162301420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162305600	Marionette	INFO	Stopped listening on port 61659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162308379	geckodriver	INFO	Listening on 127.0.0.1:61711
+1603162311953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile3kJsnZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603162314371	Marionette	INFO	Listening on port 61723
+1603162314606	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603162324878	Marionette	INFO	Stopped listening on port 61723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162325540	geckodriver	INFO	Listening on 127.0.0.1:61771
+1603162329143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileSCpuNp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603162331717	Marionette	INFO	Listening on port 61784
+extension-storage: migration complete
+1603162331799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162337973	Marionette	INFO	Stopped listening on port 61784
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162338752	geckodriver	INFO	Listening on 127.0.0.1:61833
+1603162342365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilenLl7rj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603162344897	Marionette	INFO	Listening on port 61845
+1603162345010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162351181	Marionette	INFO	Stopped listening on port 61845
+[Parent 30064, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162351941	geckodriver	INFO	Listening on 127.0.0.1:61894
+1603162355552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilea2rkvp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603162358122	Marionette	INFO	Listening on port 61907
+1603162358193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162362573	Marionette	INFO	Stopped listening on port 61907
+[Parent 11008, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162365349	geckodriver	INFO	Listening on 127.0.0.1:61956
+1603162368895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilemlLV8y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603162371477	Marionette	INFO	Listening on port 61970
+1603162371528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162382882	Marionette	INFO	Stopped listening on port 61970
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162383546	geckodriver	INFO	Listening on 127.0.0.1:62020
+1603162387140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileVfLSPs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603162389712	Marionette	INFO	Listening on port 62031
+1603162389787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162394996	Marionette	INFO	Stopped listening on port 62031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162395761	geckodriver	INFO	Listening on 127.0.0.1:62080
+1603162399354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilecWVoMZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603162401868	Marionette	INFO	Listening on port 62094
+extension-storage: migration complete
+1603162402011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162409013	Marionette	INFO	Stopped listening on port 62094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162411789	geckodriver	INFO	Listening on 127.0.0.1:62143
+1603162415364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilePBK9G7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603162417852	Marionette	INFO	Listening on port 62157
+1603162418026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162427278	Marionette	INFO	Stopped listening on port 62157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162428075	geckodriver	INFO	Listening on 127.0.0.1:62208
+1603162431675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilerbtGCn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603162434275	Marionette	INFO	Listening on port 62219
+1603162434350	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22068, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603162444367	Marionette	INFO	Stopped listening on port 62219
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162478037	geckodriver	INFO	Listening on 127.0.0.1:62343
+1603162481643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileTr4YM5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603162484080	Marionette	INFO	Listening on port 62355
+1603162484297	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603162488828	Marionette	INFO	Stopped listening on port 62355
+[Parent 6504, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162491734	geckodriver	INFO	Listening on 127.0.0.1:62400
+1603162495332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileWsdFry"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603162497981	Marionette	INFO	Listening on port 62414
+extension-storage: migration complete
+1603162498486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162530558	Marionette	INFO	Stopped listening on port 62414
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162833276	geckodriver	INFO	Listening on 127.0.0.1:63016
+1603162836854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileTEs9l3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603162839210	Marionette	INFO	Listening on port 63027
+extension-storage: migration complete
+1603162839496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162844999	Marionette	INFO	Stopped listening on port 63027
+[Parent 10944, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162847746	geckodriver	INFO	Listening on 127.0.0.1:63079
+1603162851292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileh7Id3d"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603162853836	Marionette	INFO	Listening on port 63093
+1603162853925	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27124, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603162864958	Marionette	INFO	Stopped listening on port 63093
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162872704	geckodriver	INFO	Listening on 127.0.0.1:63152
+1603162876288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileNaJfS9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603162878725	Marionette	INFO	Listening on port 63163
+1603162878935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603162884640	Marionette	INFO	Stopped listening on port 63163
+[Parent 12852, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162887382	geckodriver	INFO	Listening on 127.0.0.1:63217
+1603162890937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilegz4klc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603162893195	Marionette	INFO	Listening on port 63230
+extension-storage: migration complete
+1603162893588	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17168, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603162908830	Marionette	INFO	Stopped listening on port 63230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163035745	geckodriver	INFO	Listening on 127.0.0.1:63544
+1603163039329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilesdxlXo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603163041720	Marionette	INFO	Listening on port 63554
+1603163042000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163046765	Marionette	INFO	Stopped listening on port 63554
+[Parent 5240, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163049521	geckodriver	INFO	Listening on 127.0.0.1:63604
+1603163053100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileVrZDK7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603163055508	Marionette	INFO	Listening on port 63616
+extension-storage: migration complete
+1603163055771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163095960	Marionette	INFO	Stopped listening on port 63616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163113043	geckodriver	INFO	Listening on 127.0.0.1:63703
+1603163116623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileHLaJlH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603163119022	Marionette	INFO	Listening on port 63713
+extension-storage: migration complete
+1603163119268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163123096	Marionette	INFO	Stopped listening on port 63713
+[Parent 24704, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163125862	geckodriver	INFO	Listening on 127.0.0.1:63759
+1603163129429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileOM6RjR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603163131782	Marionette	INFO	Listening on port 63773
+extension-storage: migration complete
+1603163132073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163160822	Marionette	INFO	Stopped listening on port 63773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163163517	geckodriver	INFO	Listening on 127.0.0.1:63831
+1603163167098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilekNA4kU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603163169491	Marionette	INFO	Listening on port 63844
+1603163169758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23256, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603163185653	Marionette	INFO	Stopped listening on port 63844
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163248278	geckodriver	INFO	Listening on 127.0.0.1:64046
+1603163251871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileWQGErr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603163254459	Marionette	INFO	Listening on port 64058
+1603163254526	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603163261961	Marionette	INFO	Stopped listening on port 64058
+[Parent 30696, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163264734	geckodriver	INFO	Listening on 127.0.0.1:64108
+1603163268325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile7CyokY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603163270751	Marionette	INFO	Listening on port 64119
+1603163270978	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603163285941	Marionette	INFO	Stopped listening on port 64119
+[Parent 28244, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163288822	geckodriver	INFO	Listening on 127.0.0.1:64173
+1603163292397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileJUTr6W"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+extension-storage: migration complete
+1603163294817	Marionette	INFO	Listening on port 64186
+1603163295040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163315236	Marionette	INFO	Stopped listening on port 64186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163317950	geckodriver	INFO	Listening on 127.0.0.1:64245
+1603163321541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileMuFoxc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: TypeError: can't access dead object
+1603163323861	Marionette	INFO	Listening on port 64259
+extension-storage: migration complete
+1603163324180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163335099	Marionette	INFO	Stopped listening on port 64259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163337879	geckodriver	INFO	Listening on 127.0.0.1:64320
+1603163341456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileMyRGZe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603163343988	Marionette	INFO	Listening on port 64333
+1603163344107	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15216, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603163790974	Marionette	INFO	Stopped listening on port 64333
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603163563124	Marionette	INFO	Listening on port 64779
+extension-storage: migration complete
+1603163563379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163567749	Marionette	INFO	Stopped listening on port 64779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163570529	geckodriver	INFO	Listening on 127.0.0.1:64830
+1603163574186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileiUkdcS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603163576758	Marionette	INFO	Listening on port 64839
+1603163576839	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603163578448	Marionette	INFO	Stopped listening on port 64839
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163585933	geckodriver	INFO	Listening on 127.0.0.1:64888
+1603163589509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileCWxXsL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603163591855	Marionette	INFO	Listening on port 64896
+1603163592161	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603163596406	Marionette	INFO	Stopped listening on port 64896
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163599289	geckodriver	INFO	Listening on 127.0.0.1:64937
+1603163602859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileODEIME"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603163605346	Marionette	INFO	Listening on port 64950
+extension-storage: migration complete
+1603163605504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163640527	Marionette	INFO	Stopped listening on port 64950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163643237	geckodriver	INFO	Listening on 127.0.0.1:65011
+1603163646823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilenqNp7Y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603163649167	Marionette	INFO	Listening on port 65024
+extension-storage: migration complete
+1603163649457	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 77: Error: Connection closed, pending request to server0.conn0.child2/domnode97, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:260:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resourc1603163745671	Marionette	INFO	Stopped listening on port 65241
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163748384	geckodriver	INFO	Listening on 127.0.0.1:65303
+1603163751958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileE0ZNrA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603163754313	Marionette	INFO	Listening on port 65316
+extension-storage: migration complete
+1603163754604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163768970	Marionette	INFO	Stopped listening on port 65316
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163771625	geckodriver	INFO	Listening on 127.0.0.1:65370
+1603163775214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofiletSvnUr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603163777669	Marionette	INFO	Listening on port 65384
+1603163777874	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22632, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603163791006	Marionette	INFO	Stopped listening on port 65384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163810596	geckodriver	INFO	Listening on 127.0.0.1:65505
+1603163814225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileMJNQfW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603163816607	Marionette	INFO	Listening on port 65515
+1603163816868	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603163821816	Marionette	INFO	Stopped listening on port 65515
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163824573	geckodriver	INFO	Listening on 127.0.0.1:49174
+1603163828143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileHEbnaf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 568: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+1603163830409	Marionette	INFO	Listening on port 49187
+extension-storage: migration complete
+1603163830790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163858345	Marionette	INFO	Stopped listening on port 49187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163903725	geckodriver	INFO	Listening on 127.0.0.1:49319
+1603163907328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileDfiT0p"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603163909481	Marionette	INFO	Listening on port 49329
+extension-storage: migration complete
+1603163909974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163914023	Marionette	INFO	Stopped listening on port 49329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163916775	geckodriver	INFO	Listening on 127.0.0.1:49372
+1603163920356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileih4OAW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603163922687	Marionette	INFO	Listening on port 49387
+extension-storage: migration complete
+1603163923002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603163959729	Marionette	INFO	Stopped listening on port 49387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603163962535	geckodriver	INFO	Listening on 127.0.0.1:49462
+1603163966111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofilehL49St"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+extension-storage: migration complete
+1603163968458	Marionette	INFO	Listening on port 49475
+1603163968765	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5196, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603163986044	Marionette	INFO	Stopped listening on port 49475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603164036941	geckodriver	INFO	Listening on 127.0.0.1:49575
+1603164040519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofileshSoMc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603164042928	Marionette	INFO	Listening on port 49587
+extension-storage: migration complete
+1603164043165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603164049053	Marionette	INFO	Stopped listening on port 49587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603164051818	geckodriver	INFO	Listening on 127.0.0.1:49634
+1603164055384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lexsh\\AppData\\Local\\Temp\\rust_mozprofile4NHj5b"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://bcd6a1e8-0b79-4f07-b277-fe028ee0ec4c/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603164057718	Marionette	INFO	Listening on port 49648
+extension-storage: migration complete
+1603164058014	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23196, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603164070948	Marionette	INFO	Stopped listening on port 49648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
