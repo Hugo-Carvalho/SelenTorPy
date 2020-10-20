@@ -10,7 +10,13 @@ for line in lines:
     codslist.append(line.strip())
 
 #print(cods)
+class AutoTree(dict):
+    """Dictionary with unlimited levels"""
 
+    def __missing__(self, key):
+            value = self[key] = type(self)()
+            return value
+elements_to_CSV = AutoTree()
 
 
 torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
@@ -28,9 +34,9 @@ driver = webdriver.Firefox(firefox_profile= profile, executable_path=r'geckodriv
 
 base_url = "https://pt.product-search.net/?q="
 
-#cods = ("7891129230149","7891129230163","7891129230194","7891129230200","7891129232525","7894693028235","7894693759511","7896513309111","7896513309128","7896518510987","7896518511038","7896518511045","7896518511809","7896518511823","7896518512318","7896518512325","7896518512332","7896518512349","7896518514015","7896518514411","7896518514428","7896518514435","7896911300093","7896911300604","7897016826273","7897016826303","7897016826327","7898268765303","7898268766591","7898268766607","7898461964060","7898461964077","7898461964084")
+cods = ("7891129230149","7891129230163")
 
-cods = tuple (codslist)
+#cods = tuple (codslist)
 
 NOTFOund = ''
 info=''
@@ -52,6 +58,14 @@ for cod in cods:
             notFoundElement = False
     except:
         notFoundElement = False
+
+    # Lista de elementos
+    try:
+        driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
+        listElements=True
+    except:
+        listElements=False
+   
         
     #Um elemento
     try:
@@ -60,42 +74,54 @@ for cod in cods:
     except:
         oneElement = False
 
-    # Lista de elementos
-    try:
-        driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
-        listElements=True
-    except:
-        listElements=False
-
+    
     # Excessive USe
-    #try:
-     #   driver.find_element(By.XPATH, "//body[contains(text(),'Excessive use')]")
-      #  excessiveUse = True
-    #except:
-     #   excessiveUse = False
+    try:
+        driver.find_element(By.XPATH, "//body[contains(text(),'Excessive use')]")
+        excessiveUse = True
+    except:
+        excessiveUse = False
 
 
     try:
         
-    
         time.sleep(2)
+        
         if errorTomorrow:
             info = "Não encontrado."
-        elif oneElement:
-            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
+        elif excessiveUse == True:
+            os.system("taskkill  /f /im tor.exe")
+            driver.close()
+            time.sleep(2)
+            torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
+
+            profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
+
+            profile.set_preference('network.proxy.type', 1)
+            profile.set_preference('network.proxy.socks', '127.0.0.1')
+            profile.set_preference('network.proxy.socks_port', 9050)
+            profile.set_preference("network.proxy.socks_remote_dns", False)
+            profile.update_preferences()
+            driver = webdriver.Firefox(firefox_profile= profile, executable_path=r'geckodriver.exe')
+
+            driver.get(base_url + cod)
+
         elif listElements:
             listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
             for elemento in listElementos:
                 info = elemento.text
-            print(info)
-        #elif excessiveUse:
+                print(info)
+        elif oneElement:
+            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
+            print(info)      
+        elif excessiveUse:
             # TODO reiniciar a session TOR
-            #excessiveUse = False
+            excessiveUse = False
 
     except :
         os.system("taskkill  /f /im tor.exe")
-        driver.quit()
-        time.sleep(2)
+        driver.close()
+        time.sleep(4)
         torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
 
         profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
@@ -112,21 +138,29 @@ for cod in cods:
         
         time.sleep(2)
         if errorTomorrow:
-            info = "Não encontrado."
-        elif oneElement:
-            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a")
+            info = "Erro back tomorrow"
+            print(info)
         elif listElements:
             listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
             for elemento in listElementos:
                 info = elemento.text
-            print(info)
-        elif excessiveUse:
-        # TO DO reiniciar a session TOR
-            pass
-            
-    print(info)
+                print(info)
+        elif oneElement:
+            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
+            print(info)    
+        # elif excessiveUse:
+        # # TO DO reiniciar a session TOR
+        #     pass
+    elements_to_CSV[cod]['EAN'] = cod
+    elements_to_CSV[cod]['TITLE'] = info             
+#    print(info)
 
-            
+print("Gravar CSV")
+import csv
+with open('Ean-list.csv', 'w') as cvs_file:
+    writer = csv.writer(cvs_file, delimiter =',')
+    for index in elements_to_CSV:
+        writer.writerow(elements_to_CSV[index]['EAN'], elements_to_CSV[index]['TITLE'])           
 
 print("Fim!")
 driver.quit()
