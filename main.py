@@ -123,7 +123,7 @@ for cod in cods:
             # TODO reiniciar a session TOR
             pass
             
-    print(info)
+    print(info + '')
 
             
 
