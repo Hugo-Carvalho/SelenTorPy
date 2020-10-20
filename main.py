@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from selenium.webdriver.common.by import By
 from pyautogui import press, typewrite, hotkey
+import re
 import os, time
 
 codslist = []
@@ -32,31 +33,69 @@ base_url = "https://pt.product-search.net/?q="
 
 cods = tuple (codslist)
 
+NOTFOund = ''
+
+errorTomorrow = False
+oneElement = False
+listElements= False
+excessiveUse = False
+
 for cod in cods:  
-    
-    
-    NOTFOund = ""
-    driver.get(base_url + cod)
+
+    # Não encontrado
     try:
-        time.sleep(2)
         NOTFOund = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > h2:nth-child(1)").text
-        if NOTFOund == "Não encontrado." :
-           info = "Não encontrado."
-        elif NOTFOund == "Não encontrado":
-            info = "Não encontrado."
-        elif NOTFOund == 'Nós damos um m´ximo de 50 resultados por pesquisa.':
-            info = "Não encontrado."
-        else :
-            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
+        if(NOTFOund.find('Não encontrado')):
+            notFoundElement = True
+        else:
+            notFoundElement = False
+    except:
+        notFoundElement = False
         
+    #Um elemento
+    try:
+        driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a")
+        oneElement = True
+    except:
+        oneElement = False
+
+    # Lista de elementos
+    try:
+        driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
+        listElements=True
+    except:
+        listElements=False
+
+    # Excessive USe
+    try:
+        driver.find_element(By.XPATH, "//body[contains(text(),'Excessive use')]")
+        excessiveUse = True
+    except:
+        excessiveUse = False
+
+
+    
+    driver.get(base_url + cod)
+    
+    time.sleep(2)
+    if errorTomorrow:
+        info = "Não encontrado."
+    elif oneElement:
+        info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a")
+    elif listElements:
+        listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
+        for elemento in listElementos:
+            info = elemento.text
         print(info)
+    elif excessiveUse:
+        # TODO reiniciar a session TOR
+        excessiveUse = False
+
     except :
         os.system("taskkill  /f /im tor.exe")
         driver.quit()
         time.sleep(2)
         torexe = os.popen(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe")
-
-        
 
         profile = FirefoxProfile(r"D:\Users\lexsh\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
 
@@ -69,17 +108,21 @@ for cod in cods:
 
         driver.get(base_url + cod)
         time.sleep(5)
-        #info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
-        NOTFOund = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > h2:nth-child(1)").text
-        if NOTFOund == "Não encontrado." :
-           info = "Não encontrado."
-        elif NOTFOund == "Não encontrado":
+        
+        time.sleep(2)
+        if errorTomorrow:
             info = "Não encontrado."
-        elif NOTFOund == 'Nós damos um m´ximo de 50 resultados por pesquisa.':
-            info = "Não encontrado."
-        else :
-            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
-    
+        elif oneElement:
+            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a")
+        elif listElements:
+            listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
+            for elemento in listElementos:
+                info = elemento.text
+        print(info)
+        elif excessiveUse:
+            # TODO reiniciar a session TOR
+            pass
+            
     print(info)
 
             
