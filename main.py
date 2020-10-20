@@ -5,7 +5,7 @@ import re
 import os, time
 
 codslist = []
-lines = open('message.txt', 'r')
+lines = open('message1.txt', 'r')
 for line in lines:
     codslist.append(line.strip())
 
@@ -34,9 +34,9 @@ driver = webdriver.Firefox(firefox_profile= profile, executable_path=r'geckodriv
 
 base_url = "https://pt.product-search.net/?q="
 
-cods = ("7891129230149","7891129230163")
+#cods = ("7891129230149","7891129230163","0190780132548","0190780337837","0190758697222")
 
-#cods = tuple (codslist)
+cods = tuple (codslist)
 
 NOTFOund = ''
 info=''
@@ -52,7 +52,7 @@ for cod in cods:
     # Não encontrado
     try:
         NOTFOund = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > h2:nth-child(1)").text
-        if(NOTFOund.find('Não encontrado')):
+        if(NOTFOund.find('Não encontrado') != -1):
             notFoundElement = True
         else:
             notFoundElement = False
@@ -61,7 +61,7 @@ for cod in cods:
 
     # Lista de elementos
     try:
-        driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
+        driver.find_element(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
         listElements=True
     except:
         listElements=False
@@ -89,7 +89,13 @@ for cod in cods:
         
         if errorTomorrow:
             info = "Não encontrado."
+            elements_to_CSV[cod]['EAN'] = cod
+            elements_to_CSV[cod]['TITLE'] = "Não encontrado"
         elif excessiveUse == True:
+            
+            elements_to_CSV[cod]['EAN'] = cod
+            elements_to_CSV[cod]['TITLE'] = "Não Processado"
+            
             os.system("taskkill  /f /im tor.exe")
             driver.close()
             time.sleep(2)
@@ -108,59 +114,35 @@ for cod in cods:
 
         elif listElements:
             listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
-            for elemento in listElementos:
-                info = elemento.text
-                print(info)
+           
+            elements_to_CSV[cod]['EAN'] = cod
+            elements_to_CSV[cod]['TITLE'] = "Prezo em lista"
+            
+            # for elemento, key in listElementos:
+            #     info = driver.find_element(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
+            #     print(info)
+            #     elements_to_CSV[cod]['EAN'] = cod
+            #     elements_to_CSV[cod]['TITLE'] = info
+            #     key +=key     
         elif oneElement:
             info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
-            print(info)      
-        elif excessiveUse:
-            # TODO reiniciar a session TOR
-            excessiveUse = False
-
-    except :
-        os.system("taskkill  /f /im tor.exe")
-        driver.close()
-        time.sleep(4)
-        torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
-
-        profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
-
-        profile.set_preference('network.proxy.type', 1)
-        profile.set_preference('network.proxy.socks', '127.0.0.1')
-        profile.set_preference('network.proxy.socks_port', 9050)
-        profile.set_preference("network.proxy.socks_remote_dns", False)
-        profile.update_preferences()
-        driver = webdriver.Firefox(firefox_profile= profile, executable_path=r'geckodriver.exe')
-
-        driver.get(base_url + cod)
-    
-        
-        time.sleep(2)
-        if errorTomorrow:
-            info = "Erro back tomorrow"
             print(info)
-        elif listElements:
-            listElementos = driver.find_elements(By.CSS_SELECTOR, ".table > tbody:nth-child(1) > tr > td:nth-child(2) > a:nth-child(1)")
-            for elemento in listElementos:
-                info = elemento.text
-                print(info)
-        elif oneElement:
-            info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
-            print(info)    
-        # elif excessiveUse:
-        # # TO DO reiniciar a session TOR
-        #     pass
-    elements_to_CSV[cod]['EAN'] = cod
-    elements_to_CSV[cod]['TITLE'] = info             
-#    print(info)
+            elements_to_CSV[cod]['EAN'] = cod
+            elements_to_CSV[cod]['TITLE'] = info 
+     
+    except :
+        pass
+    finally:
+        pass
+
 
 print("Gravar CSV")
+print(elements_to_CSV)
 import csv
-with open('Ean-list.csv', 'w') as cvs_file:
+with open('Ean-list.csv', 'w', encoding='utf-8') as cvs_file:
     writer = csv.writer(cvs_file, delimiter =',')
-    for index in elements_to_CSV:
-        writer.writerow(elements_to_CSV[index]['EAN'], elements_to_CSV[index]['TITLE'])           
+    for i in elements_to_CSV:
+        writer.writerow([elements_to_CSV[i]['EAN'], elements_to_CSV[i]['TITLE']])           
 
 print("Fim!")
 driver.quit()
