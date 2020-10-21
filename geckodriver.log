@@ -5313,3 +5313,1467 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "res
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1603240379916	geckodriver	INFO	Listening on 127.0.0.1:63672
+1603240388878	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilemzsTZw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: TypeError: can't access dead object
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603240440446	Marionette	INFO	Listening on port 63684
+1603240441274	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+[Parent 1268, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603240530238	Marionette	INFO	Stopped listening on port 63684
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ectory.
+1603240479214	Marionette	INFO	Listening on port 63777
+1603240479650	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603240530093	Marionette	INFO	Stopped listening on port 63777
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ocal\\Temp\\rust_mozprofile5P3cLd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603240510802	Marionette	INFO	Listening on port 63830
+extension-storage: migration complete
+1603240530465	Marionette	INFO	Stopped listening on port 63830
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603240688299	geckodriver	INFO	Listening on 127.0.0.1:63905
+1603240695169	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileWuLAJX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603240701164	Marionette	INFO	Listening on port 63916
+1603240701472	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+[Parent 12684, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603240735483	Marionette	INFO	Stopped listening on port 63916
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+obhBa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603240729742	Marionette	INFO	Listening on port 63976
+1603240730222	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 14024, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603240752874	Marionette	INFO	Stopped listening on port 63976
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603240810117	geckodriver	INFO	Listening on 127.0.0.1:64045
+1603240817276	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilePrPo5q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603240822704	Marionette	INFO	Listening on port 64054
+1603240823080	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+[Parent 11972, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603240863771	Marionette	INFO	Stopped listening on port 64054
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ctory.
+1603240849873	Marionette	INFO	Listening on port 64104
+1603240850082	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 2268, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603240869392	Marionette	INFO	Stopped listening on port 64104
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603240949811	geckodriver	INFO	Listening on 127.0.0.1:64176
+1603240956913	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilemAmERv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603240962070	Marionette	INFO	Listening on port 64186
+1603240962207	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+[Parent 4324, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603241010253	Marionette	INFO	Stopped listening on port 64186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ectory.
+1603240989505	Marionette	INFO	Listening on port 64241
+1603240989591	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+[Parent 11620, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603241009996	Marionette	INFO	Stopped listening on port 64241
+1603241010233	geckodriver	INFO	Listening on 127.0.0.1:64302
+ error: cannot send/recv
+
+1603241168647	geckodriver	INFO	Listening on 127.0.0.1:64353
+1603241175950	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilezEKe7t"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241182683	Marionette	INFO	Listening on port 64364
+1603241182876	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241195953	Marionette	INFO	Stopped listening on port 64364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241201080	geckodriver	INFO	Listening on 127.0.0.1:64436
+1603241207771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileVXo5Jg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241212440	Marionette	INFO	Listening on port 64445
+1603241212552	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241234384	Marionette	INFO	Stopped listening on port 64445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603241231333	Marionette	INFO	Listening on port 64497
+1603241231776	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241243402	Marionette	INFO	Stopped listening on port 64497
+[Parent 3324, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241249295	geckodriver	INFO	Listening on 127.0.0.1:64549
+1603241255752	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileyUJ7PO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603241260650	Marionette	INFO	Listening on port 64558
+1603241261087	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Abor1603241271380	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozp1603241280209	Marionette	INFO	Stopped listening on port 64558
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sion
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+extension-storage: migration complete
+1603241291284	Marionette	INFO	Stopped listening on port 64607
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241298105	geckodriver	INFO	Listening on 127.0.0.1:64654
+1603241304704	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileo7qIR5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241309847	Marionette	INFO	Listening on port 64664
+1603241310031	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241331451	Marionette	INFO	Stopped listening on port 64664
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241326075	Marionette	INFO	Listening on port 64710
+1603241326252	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241338187	Marionette	INFO	Stopped listening on port 64710
+[Parent 6708, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241343621	geckodriver	INFO	Listening on 127.0.0.1:64754
+1603241349828	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileAoUSaV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241354426	Marionette	INFO	Listening on port 64763
+1603241354590	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241404645	Marionette	INFO	Stopped listening on port 64763
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241370909	Marionette	INFO	Listening on port 64805
+1603241371335	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241383813	Marionette	INFO	Stopped listening on port 64805
+[Parent 10264, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241388712	geckodriver	INFO	Listening on 127.0.0.1:64849
+1603241395141	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileOqjGCF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241400534	Marionette	INFO	Listening on port 64859
+1603241400952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+[Parent 14024, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603241407708	Marionette	INFO	Stopped listening on port 64859
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241617832	geckodriver	INFO	Listening on 127.0.0.1:64941
+1603241624248	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile1SfOX2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241629324	Marionette	INFO	Listening on port 64951
+1603241629554	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241641455	Marionette	INFO	Stopped listening on port 64951
+[Parent 14300, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241646558	geckodriver	INFO	Listening on 127.0.0.1:64995
+1603241654396	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileymOtbs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241659563	Marionette	INFO	Listening on port 65005
+1603241659681	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241672377	Marionette	INFO	Stopped listening on port 65005
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241677675	geckodriver	INFO	Listening on 127.0.0.1:65052
+1603241684225	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileeApl6T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241688437	Marionette	INFO	Listening on port 65061
+1603241688510	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241700856	Marionette	INFO	Stopped listening on port 65061
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241705368	geckodriver	INFO	Listening on 127.0.0.1:65110
+1603241711698	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileK4artP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241716211	Marionette	INFO	Listening on port 65120
+1603241716477	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+extension-storage: migration complete
+1603241846971	Marionette	INFO	Stopped listening on port 65120
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241887289	geckodriver	INFO	Listening on 127.0.0.1:65198
+1603241893687	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileqzxpuf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241901062	Marionette	INFO	Listening on port 65208
+1603241901132	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241924855	Marionette	INFO	Stopped listening on port 65208
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241931774	geckodriver	INFO	Listening on 127.0.0.1:65256
+1603241938192	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilezTNowD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241944087	Marionette	INFO	Listening on port 65265
+1603241944506	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603241956459	Marionette	INFO	Stopped listening on port 65265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603241962393	geckodriver	INFO	Listening on 127.0.0.1:65311
+1603241969217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilehxE8KH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603241973653	Marionette	INFO	Listening on port 65321
+1603241973996	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13060, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603242295198	Marionette	INFO	Stopped listening on port 65321
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ificate errors will be ignored for this session
+extension-storage: migration complete
+[Parent 6680, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603242296193	Marionette	INFO	Stopped listening on port 65410
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aEW3rN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242300976	Marionette	INFO	Listening on port 65482
+1603242301089	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+[Parent 10640, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603242579330	Marionette	INFO	Stopped listening on port 65482
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aJsQh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603242460757	Marionette	INFO	Listening on port 49175
+1603242460916	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603242491158	Marionette	INFO	Stopped listening on port 49175
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242514357	geckodriver	INFO	Listening on 127.0.0.1:49223
+1603242521212	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileeG3Q1P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242524917	Marionette	INFO	Listening on port 49232
+1603242525397	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603242543412	Marionette	INFO	Stopped listening on port 49232
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242786055	geckodriver	INFO	Listening on 127.0.0.1:49333
+1603242792245	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileXBSN83"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242796359	Marionette	INFO	Listening on port 49344
+1603242796418	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603242803386	Marionette	INFO	Stopped listening on port 49344
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242807473	geckodriver	INFO	Listening on 127.0.0.1:49388
+1603242813639	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile6MRyZ4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242817893	Marionette	INFO	Listening on port 49398
+1603242817915	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603242828895	Marionette	INFO	Stopped listening on port 49398
+[Parent 13688, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242833025	geckodriver	INFO	Listening on 127.0.0.1:49444
+1603242839276	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilen4sh75"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242843183	Marionette	INFO	Listening on port 49453
+1603242843456	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603242851271	Marionette	INFO	Stopped listening on port 49453
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242855195	geckodriver	INFO	Listening on 127.0.0.1:49500
+1603242861549	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile8QbAV2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242865488	Marionette	INFO	Listening on port 49509
+1603242865711	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603242874054	Marionette	INFO	Stopped listening on port 49509
+[Parent 3976, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242877971	geckodriver	INFO	Listening on 127.0.0.1:49554
+1603242884139	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileeKwF43"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242888330	Marionette	INFO	Listening on port 49564
+1603242888411	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603242896300	Marionette	INFO	Stopped listening on port 49564
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242900368	geckodriver	INFO	Listening on 127.0.0.1:49610
+1603242906590	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileaFjoyP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242910402	Marionette	INFO	Listening on port 49619
+1603242910764	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603242918574	Marionette	INFO	Stopped listening on port 49619
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242922426	geckodriver	INFO	Listening on 127.0.0.1:49673
+1603242928614	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileX1YF3R"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242932485	Marionette	INFO	Listening on port 49682
+1603242932776	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603242952476	Marionette	INFO	Stopped listening on port 49682
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242956483	geckodriver	INFO	Listening on 127.0.0.1:49729
+1603242963050	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileKfRAeY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242967185	Marionette	INFO	Listening on port 49738
+1603242967226	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603242975350	Marionette	INFO	Stopped listening on port 49738
+[Parent 12128, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242979232	geckodriver	INFO	Listening on 127.0.0.1:49779
+1603242985401	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileh3KRFa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242989216	Marionette	INFO	Listening on port 49788
+1603242989566	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603242997692	Marionette	INFO	Stopped listening on port 49788
+[Parent 5644, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603243001642	geckodriver	INFO	Listening on 127.0.0.1:49835
+1603243008146	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilel5BQv0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603243013059	Marionette	INFO	Listening on port 49845
+1603243013422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603243016924	Marionette	INFO	Stopped listening on port 49845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603243213104	geckodriver	INFO	Listening on 127.0.0.1:49918
+1603243219199	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileLEKgbk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603243223063	Marionette	INFO	Listening on port 49926
+1603243223363	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603243240509	Marionette	INFO	Stopped listening on port 49926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603243244324	geckodriver	INFO	Listening on 127.0.0.1:49976
+1603243250601	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileKG7SVC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603243254425	Marionette	INFO	Listening on port 49985
+1603243254750	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603243584722	Marionette	INFO	Stopped listening on port 49985
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ocal\\Temp\\rust_mozprofileJxbzGI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603243353657	Marionette	INFO	Listening on port 50051
+1603243353726	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+[Parent 10988, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603243560391	Marionette	INFO	Stopped listening on port 50051
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279147143	geckodriver	INFO	Listening on 127.0.0.1:50462
+1603279154038	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile2PWI3T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279166701	Marionette	INFO	Listening on port 50474
+1603279166828	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279172021	Marionette	INFO	Stopped listening on port 50474
+[Parent 2220, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279176419	geckodriver	INFO	Listening on 127.0.0.1:50529
+1603279183320	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileJZK5Xg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279189939	Marionette	INFO	Listening on port 50539
+1603279190426	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279199181	Marionette	INFO	Stopped listening on port 50539
+[Parent 8444, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279202969	geckodriver	INFO	Listening on 127.0.0.1:50594
+1603279209047	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileqEzyET"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603279213797	Marionette	INFO	Listening on port 50603
+1603279213870	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279221724	Marionette	INFO	Stopped listening on port 50603
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279225586	geckodriver	INFO	Listening on 127.0.0.1:50655
+1603279232043	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileMWHvrH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279238426	Marionette	INFO	Listening on port 50664
+1603279238479	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279247159	Marionette	INFO	Stopped listening on port 50664
+[Parent 10044, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279251476	geckodriver	INFO	Listening on 127.0.0.1:50715
+1603279258061	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileeYcDIe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 101: TransactionInactiveError: A request was placed against a transaction which is currently not active, or which is finished.
+1603279263707	Marionette	INFO	Listening on port 50724
+1603279263905	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279273523	Marionette	INFO	Stopped listening on port 50724
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279277782	geckodriver	INFO	Listening on 127.0.0.1:50775
+1603279284362	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileHLjqtb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279291013	Marionette	INFO	Listening on port 50784
+1603279291323	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279297813	Marionette	INFO	Stopped listening on port 50784
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279304764	geckodriver	INFO	Listening on 127.0.0.1:50831
+1603279311308	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileYu9Xab"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279318763	Marionette	INFO	Listening on port 50840
+1603279318874	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279324558	Marionette	INFO	Stopped listening on port 50840
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279328681	geckodriver	INFO	Listening on 127.0.0.1:50892
+1603279335669	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilewMpLDe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279340371	Marionette	INFO	Listening on port 50901
+1603279340490	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279348609	Marionette	INFO	Stopped listening on port 50901
+[Parent 7164, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279352693	geckodriver	INFO	Listening on 127.0.0.1:50945
+1603279359306	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile3Gsho4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279364003	Marionette	INFO	Listening on port 50954
+1603279364085	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279373605	Marionette	INFO	Stopped listening on port 50954
+[Parent 10148, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279377694	geckodriver	INFO	Listening on 127.0.0.1:51001
+1603279384234	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileOxIVZS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279388821	Marionette	INFO	Listening on port 51010
+1603279389048	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279399306	Marionette	INFO	Stopped listening on port 51010
+[Parent 5736, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279403376	geckodriver	INFO	Listening on 127.0.0.1:51054
+1603279409868	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileEZvdeG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279414787	Marionette	INFO	Listening on port 51063
+1603279415199	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279424045	Marionette	INFO	Stopped listening on port 51063
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279428342	geckodriver	INFO	Listening on 127.0.0.1:51112
+1603279434893	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileg3SUx3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279441288	Marionette	INFO	Listening on port 51121
+1603279441620	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279451609	Marionette	INFO	Stopped listening on port 51121
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279455629	geckodriver	INFO	Listening on 127.0.0.1:51172
+1603279461966	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileoG59vS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279466763	Marionette	INFO	Listening on port 51181
+1603279466789	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279476202	Marionette	INFO	Stopped listening on port 51181
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279480214	geckodriver	INFO	Listening on 127.0.0.1:51227
+1603279487140	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileh02xEG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279492084	Marionette	INFO	Listening on port 51236
+1603279492434	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279503781	Marionette	INFO	Stopped listening on port 51236
+[Parent 10620, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279508204	geckodriver	INFO	Listening on 127.0.0.1:51287
+1603279515303	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilejKzFqn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279521815	Marionette	INFO	Listening on port 51296
+1603279521899	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279552610	Marionette	INFO	Stopped listening on port 51296
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279554069	geckodriver	INFO	Listening on 127.0.0.1:51353
+1603279560833	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileWDpyVx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279566036	Marionette	INFO	Listening on port 51362
+1603279566328	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279573913	Marionette	INFO	Stopped listening on port 51362
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279578562	geckodriver	INFO	Listening on 127.0.0.1:51414
+1603279585481	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilecSxxub"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279591191	Marionette	INFO	Listening on port 51423
+1603279591307	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279598115	Marionette	INFO	Stopped listening on port 51423
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279602025	geckodriver	INFO	Listening on 127.0.0.1:51472
+1603279608491	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilerOb3GP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603279612420	Marionette	INFO	Listening on port 51481
+1603279612713	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Parent 7944, Gecko_IOThread] WARNING: file /builds/worker/c1603279740448	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileVbUrMU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: TypeError: can't access dead object
+1603279745673	Marionette	INFO	Listening on port 51543
+1603279745810	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279753591	Marionette	INFO	Stopped listening on port 51543
+[Parent 4408, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279758034	geckodriver	INFO	Listening on 127.0.0.1:51593
+1603279764598	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileSE1t1h"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279770149	Marionette	INFO	Listening on port 51602
+1603279770448	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279777386	Marionette	INFO	Stopped listening on port 51602
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279781515	geckodriver	INFO	Listening on 127.0.0.1:51655
+1603279788049	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile5UNIFI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279794058	Marionette	INFO	Listening on port 51664
+1603279795083	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279801824	Marionette	INFO	Stopped listening on port 51664
+[Parent 9928, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279805794	geckodriver	INFO	Listening on 127.0.0.1:51719
+1603279812062	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilebWYAxo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279816971	Marionette	INFO	Listening on port 51728
+1603279817392	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279824637	Marionette	INFO	Stopped listening on port 51728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279828788	geckodriver	INFO	Listening on 127.0.0.1:51777
+1603279835502	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilewk0NB7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279841643	Marionette	INFO	Listening on port 51786
+1603279842336	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279852640	Marionette	INFO	Stopped listening on port 51786
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279856894	geckodriver	INFO	Listening on 127.0.0.1:51837
+1603279863430	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileqetbT7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279869463	Marionette	INFO	Listening on port 51846
+1603279870235	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279877165	Marionette	INFO	Stopped listening on port 51846
+[Parent 8356, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279881112	geckodriver	INFO	Listening on 127.0.0.1:51899
+1603279887231	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilehugndC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279892036	Marionette	INFO	Listening on port 51908
+1603279892058	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279901077	Marionette	INFO	Stopped listening on port 51908
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279904934	geckodriver	INFO	Listening on 127.0.0.1:51946
+1603279911585	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile9iP1jz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279916439	Marionette	INFO	Listening on port 51955
+1603279916853	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279924985	Marionette	INFO	Stopped listening on port 51955
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279928894	geckodriver	INFO	Listening on 127.0.0.1:52002
+1603279935587	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileH5nIu3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279941498	Marionette	INFO	Listening on port 52011
+1603279942251	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279948877	Marionette	INFO	Stopped listening on port 52011
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279952999	geckodriver	INFO	Listening on 127.0.0.1:52061
+1603279959821	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile9PGSHi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603279965478	Marionette	INFO	Listening on port 52070
+1603279965650	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603279976712	Marionette	INFO	Stopped listening on port 52070
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603279981359	geckodriver	INFO	Listening on 127.0.0.1:52116
+1603279988142	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilecIft22"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603279992699	Marionette	INFO	Listening on port 52125
+1603279992938	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280000121	Marionette	INFO	Stopped listening on port 52125
+[Parent 2520, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280004437	geckodriver	INFO	Listening on 127.0.0.1:52178
+1603280011012	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilecJ4a6x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603280015589	Marionette	INFO	Listening on port 52187
+1603280015847	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280023910	Marionette	INFO	Stopped listening on port 52187
+[Parent 10396, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280027755	geckodriver	INFO	Listening on 127.0.0.1:52236
+1603280034541	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilezf0CqL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280039065	Marionette	INFO	Listening on port 52247
+1603280039323	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280060492	Marionette	INFO	Stopped listening on port 52247
+[Parent 8552, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280065188	geckodriver	INFO	Listening on 127.0.0.1:52305
+1603280073940	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileYWCTea"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603280079600	Marionette	INFO	Listening on port 52316
+1603280080054	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280087924	Marionette	INFO	Stopped listening on port 52316
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280091924	geckodriver	INFO	Listening on 127.0.0.1:52366
+1603280098036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilegykZje"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280102162	Marionette	INFO	Listening on port 52375
+1603280102215	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280112072	Marionette	INFO	Stopped listening on port 52375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280116844	geckodriver	INFO	Listening on 127.0.0.1:52420
+1603280123872	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile3V1kRe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603280129259	Marionette	INFO	Listening on port 52431
+1603280129645	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280137221	Marionette	INFO	Stopped listening on port 52431
+[Parent 3440, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280142861	geckodriver	INFO	Listening on 127.0.0.1:52480
+1603280169612	geckodriver	INFO	Listening on 127.0.0.1:52492
+1603280176111	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilekS39oB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: can't access dead object
+1603280182289	Marionette	INFO	Listening on port 52500
+1603280182381	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280192985	Marionette	INFO	Stopped listening on port 52500
+[Parent 9556, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280196634	geckodriver	INFO	Listening on 127.0.0.1:52546
+1603280203099	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile34gI4X"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280208101	Marionette	INFO	Listening on port 52556
+1603280208427	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280218643	Marionette	INFO	Stopped listening on port 52556
+[Parent 3436, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280222780	geckodriver	INFO	Listening on 127.0.0.1:52603
+1603280229852	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileRrJ0Kh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280236042	Marionette	INFO	Listening on port 52612
+1603280236614	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280248373	Marionette	INFO	Stopped listening on port 52612
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280252003	geckodriver	INFO	Listening on 127.0.0.1:52659
+1603280258195	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileM62ZEG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280264040	Marionette	INFO	Listening on port 52668
+1603280264152	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280274133	Marionette	INFO	Stopped listening on port 52668
+[Parent 6188, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280278566	geckodriver	INFO	Listening on 127.0.0.1:52720
+1603280287500	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileAq6mKo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280293244	Marionette	INFO	Listening on port 52734
+1603280293342	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280303978	Marionette	INFO	Stopped listening on port 52734
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280308359	geckodriver	INFO	Listening on 127.0.0.1:52779
+1603280316355	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilecWPlm1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280322678	Marionette	INFO	Listening on port 52789
+1603280322998	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280331886	Marionette	INFO	Stopped listening on port 52789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280336202	geckodriver	INFO	Listening on 127.0.0.1:52838
+1603280343892	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilen80obJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280350273	Marionette	INFO	Listening on port 52847
+1603280350533	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280359241	Marionette	INFO	Stopped listening on port 52847
+[Parent 720, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280363497	geckodriver	INFO	Listening on 127.0.0.1:52896
+1603280369729	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilefPVNv5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280374176	Marionette	INFO	Listening on port 52905
+1603280374521	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280382239	Marionette	INFO	Stopped listening on port 52905
+[Parent 8596, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280386392	geckodriver	INFO	Listening on 127.0.0.1:52964
+1603280393797	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileV0NjhQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280398445	Marionette	INFO	Listening on port 52983
+1603280398587	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280658591	Marionette	INFO	Stopped listening on port 52981603280664038	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilevEdrcu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280668672	Marionette	INFO	Listening on port 53053
+1603280668847	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280676042	Marionette	INFO	Stopped listening on port 53053
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280680188	geckodriver	INFO	Listening on 127.0.0.1:53106
+1603280686864	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileq38qft"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280693427	Marionette	INFO	Listening on port 53116
+1603280693834	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280739012	Marionette	INFO	Stopped listening on port 53111603280744042	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileSnTvz5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280748597	Marionette	INFO	Listening on port 53190
+1603280748865	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280775313	Marionette	INFO	Stopped listening on port 53190
+[Parent 9584, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280886714	geckodriver	INFO	Listening on 127.0.0.1:53257
+1603280894160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileg9YZjk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280900220	Marionette	INFO	Listening on port 53268
+1603280900333	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280912156	Marionette	INFO	Stopped listening on port 53268
+[Parent 2076, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280915958	geckodriver	INFO	Listening on 127.0.0.1:53314
+1603280922215	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileY7NSId"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280928267	Marionette	INFO	Listening on port 53323
+1603280929028	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280937602	Marionette	INFO	Stopped listening on port 53323
+[Parent 6388, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280941911	geckodriver	INFO	Listening on 127.0.0.1:53376
+1603280949367	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilehsC4Uj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603280954032	Marionette	INFO	Listening on port 53388
+1603280954166	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280964380	Marionette	INFO	Stopped listening on port 53388
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8320, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280968450	geckodriver	INFO	Listening on 127.0.0.1:53434
+1603280976274	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileRKn0sm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603280983268	Marionette	INFO	Listening on port 53443
+1603280983335	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603280991552	Marionette	INFO	Stopped listening on port 53443
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603280995573	geckodriver	INFO	Listening on 127.0.0.1:53499
+1603281001908	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofiledgLxrL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281005814	Marionette	INFO	Listening on port 53509
+1603281006091	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281014967	Marionette	INFO	Stopped listening on port 53509
+[Parent 10376, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281019743	geckodriver	INFO	Listening on 127.0.0.1:53553
+1603281027231	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilefpzK6k"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281032758	Marionette	INFO	Listening on port 53562
+1603281033207	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281041738	Marionette	INFO	Stopped listening on port 53562
+[Parent 7928, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281046213	geckodriver	INFO	Listening on 127.0.0.1:53615
+1603281053206	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile2QwDXV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281059042	Marionette	INFO	Listening on port 53624
+1603281059139	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281068024	Marionette	INFO	Stopped listening on port 53624
+[Parent 8020, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281072271	geckodriver	INFO	Listening on 127.0.0.1:53671
+1603281079221	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileYO9yp3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281084197	Marionette	INFO	Listening on port 53686
+1603281084550	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281094262	Marionette	INFO	Stopped listening on port 53686
+[Parent 8544, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281098420	geckodriver	INFO	Listening on 127.0.0.1:53736
+1603281105800	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileGcQdw2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281112318	Marionette	INFO	Listening on port 53746
+1603281112438	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281120478	Marionette	INFO	Stopped listening on port 53746
+[Parent 1600, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281124528	geckodriver	INFO	Listening on 127.0.0.1:53811
+1603281130783	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileNQpsyY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281135655	Marionette	INFO	Listening on port 53820
+1603281136092	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281143973	Marionette	INFO	Stopped listening on port 53820
+[Parent 7444, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281147985	geckodriver	INFO	Listening on 127.0.0.1:53876
+1603281154656	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile5hVfdS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281160951	Marionette	INFO	Listening on port 53888
+1603281161164	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281169684	Marionette	INFO	Stopped listening on port 53888
+[Parent 8096, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281174322	geckodriver	INFO	Listening on 127.0.0.1:53939
+1603281182852	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile7MaQuu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281188368	Marionette	INFO	Listening on port 53948
+1603281188680	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281197246	Marionette	INFO	Stopped listening on port 53948
+[Parent 9740, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281201372	geckodriver	INFO	Listening on 127.0.0.1:53995
+1603281207960	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilePWj46P"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281212443	Marionette	INFO	Listening on port 54004
+1603281212750	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603281247967	Marionette	INFO	Stopped listening on port 54004
+[Parent 10316, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281351981	geckodriver	INFO	Listening on 127.0.0.1:54065
+1603281358931	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilexOQkWJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281366973	Marionette	INFO	Listening on port 54073
+1603281367101	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281375730	Marionette	INFO	Stopped listening on port 54073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281380156	geckodriver	INFO	Listening on 127.0.0.1:54127
+1603281387999	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilejgYcTM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281392515	Marionette	INFO	Listening on port 54137
+1603281393073	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281401475	Marionette	INFO	Stopped listening on port 54137
+[Parent 9244, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281405248	geckodriver	INFO	Listening on 127.0.0.1:54189
+1603281411263	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile87ce2u"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 568: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+1603281415160	Marionette	INFO	Listening on port 54198
+1603281415443	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281424485	Marionette	INFO	Stopped listening on port 54198
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281428615	geckodriver	INFO	Listening on 127.0.0.1:54249
+1603281435339	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileUe5woi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281440018	Marionette	INFO	Listening on port 54258
+1603281440132	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281449271	Marionette	INFO	Stopped listening on port 54258
+[Parent 6468, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281453254	geckodriver	INFO	Listening on 127.0.0.1:54304
+1603281460029	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileBgjT8B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281464601	Marionette	INFO	Listening on port 54314
+1603281464845	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281473473	Marionette	INFO	Stopped listening on port 54314
+[Parent 9508, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281477739	geckodriver	INFO	Listening on 127.0.0.1:54361
+1603281484356	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileolokRB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281488830	Marionette	INFO	Listening on port 54370
+1603281489147	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281497594	Marionette	INFO	Stopped listening on port 54370
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281502433	geckodriver	INFO	Listening on 127.0.0.1:54426
+1603281509688	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileVU3dFm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281514791	Marionette	INFO	Listening on port 54435
+1603281514995	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281523211	Marionette	INFO	Stopped listening on port 54435
+[Parent 5820, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281527209	geckodriver	INFO	Listening on 127.0.0.1:54485
+1603281534133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileREAV9L"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281539150	Marionette	INFO	Listening on port 54494
+1603281539445	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281548676	Marionette	INFO	Stopped listening on port 54494
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281552723	geckodriver	INFO	Listening on 127.0.0.1:54544
+1603281559133	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileIFnug0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281564533	Marionette	INFO	Listening on port 54553
+1603281565221	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281572700	Marionette	INFO	Stopped listening on port 54553
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281577031	geckodriver	INFO	Listening on 127.0.0.1:54603
+1603281583768	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilevgoYbF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281589033	Marionette	INFO	Listening on port 54612
+1603281589074	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281598539	Marionette	INFO	Stopped listening on port 54612
+[Parent 7404, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281602921	geckodriver	INFO	Listening on 127.0.0.1:54660
+1603281610437	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileeMI32L"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603281615341	Marionette	INFO	Listening on port 54669
+1603281615737	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281624586	Marionette	INFO	Stopped listening on port 54669
+[Parent 7780, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281628338	geckodriver	INFO	Listening on 127.0.0.1:54714
+1603281634651	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileAxDoZP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+1603281639169	Marionette	INFO	Listening on port 54723
+1603281639492	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281647633	Marionette	INFO	Stopped listening on port 54723
+[Parent 2716, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281652119	geckodriver	INFO	Listening on 127.0.0.1:54775
+1603281659048	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile45M21M"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281664316	Marionette	INFO	Listening on port 54784
+1603281664361	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281674552	Marionette	INFO	Stopped listening on port 54784
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281679228	geckodriver	INFO	Listening on 127.0.0.1:54830
+1603281686315	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileB63Kti"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281691870	Marionette	INFO	Listening on port 54840
+1603281692145	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281700893	Marionette	INFO	Stopped listening on port 54840
+[Parent 7564, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281705476	geckodriver	INFO	Listening on 127.0.0.1:54899
+1603281713153	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilecaQvnO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281717214	Marionette	INFO	Listening on port 54909
+1603281717321	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281726984	Marionette	INFO	Stopped listening on port 54909
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281730924	geckodriver	INFO	Listening on 127.0.0.1:54950
+1603281737797	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile6MFHW0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281743021	Marionette	INFO	Listening on port 54959
+1603281743334	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281754845	Marionette	INFO	Stopped listening on port 54959
+[Parent 10376, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281759330	geckodriver	INFO	Listening on 127.0.0.1:55008
+1603281766213	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofilecWOOxT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281772254	Marionette	INFO	Listening on port 55017
+1603281772743	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281784653	Marionette	INFO	Stopped listening on port 55017
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281788615	geckodriver	INFO	Listening on 127.0.0.1:55064
+1603281795723	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileaQDNgD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: moz-extension://d265624b-7906-42c9-83c0-9688c06390e4/content/staticNS.js, line 77: ReferenceError: policy is not defined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+1603281802690	Marionette	INFO	Listening on port 55073
+1603281803636	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281839082	Marionette	INFO	Stopped listening on port 55073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281888954	geckodriver	INFO	Listening on 127.0.0.1:55137
+1603281895423	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileXU6HLk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281901401	Marionette	INFO	Listening on port 55146
+1603281901886	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281908575	Marionette	INFO	Stopped listening on port 55146
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281912537	geckodriver	INFO	Listening on 127.0.0.1:55197
+1603281918728	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofile99CwLA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281923975	Marionette	INFO	Listening on port 55207
+1603281924095	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603281932299	Marionette	INFO	Stopped listening on port 55207
+[Parent 6240, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603281936253	geckodriver	INFO	Listening on 127.0.0.1:55254
+1603281943070	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\luan2\\AppData\\Local\\Temp\\rust_mozprofileSCNRHg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603281947961	Marionette	INFO	Listening on port 55263
+1603281948376	Marionette	WARN	TLS certificate errors will be ignored for this session
+extension-storage: migration complete
+1603282028397	Marionette	INFO	Stopped listening on port 55263
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
