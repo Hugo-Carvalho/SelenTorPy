@@ -33274,15 +33274,13 @@ extension-storage: migration complete
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
-1603290691490	geckodriver	INFO	Listening on 127.0.0.1:63124
-1603290695433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileXwjJSn"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+ocal\\Temp\\rust_mozprofileJxbzGI"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603243353657	Marionette	INFO	Listening on port 50051
+1603243353726	Marionette	WARN	TLS certificate errors will be ignored for this session
 extension-storage: migration complete
-1603290697954	Marionette	INFO	Listening on port 63134
-1603290698115	Marionette	WARN	TLS certificate errors will be ignored for this session
-1603290704878	Marionette	INFO	Stopped listening on port 63134
-[Parent 21824, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 10988, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603243560391	Marionette	INFO	Stopped listening on port 50051
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
@@ -34363,3 +34361,11 @@ extension-storage: migration complete
 1603292792663	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
 console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603318113237	geckodriver	INFO	Listening on 127.0.0.1:63757
+1603318117146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEX~1.SIL\\AppData\\Local\\Temp\\rust_mozprofileHaM5Ti"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+extension-storage: migration complete
+1603318118786	Marionette	INFO	Listening on port 63766
+1603318119214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
