@@ -5,7 +5,7 @@ import re
 import os, time
 
 codslist = []
-lines = open('message1.txt', 'r')
+lines = open('message.txt', 'r')
 for line in lines:
     codslist.append(line.strip())
 
@@ -133,14 +133,20 @@ for cod in cods:
     except :
         pass
     finally:
-        pass
+        print("Gravar CSV")
+        
+        import csv
+        with open('Ean-list.csv', 'w', encoding='utf-8') as cvs_file:
+            writer = csv.writer(cvs_file, delimiter =';')
+            for i in elements_to_CSV:
+                writer.writerow([elements_to_CSV[i]['EAN'], elements_to_CSV[i]['TITLE']])  
 
 
 print("Gravar CSV")
 print(elements_to_CSV)
 import csv
 with open('Ean-list.csv', 'w', encoding='utf-8') as cvs_file:
-    writer = csv.writer(cvs_file, delimiter =',')
+    writer = csv.writer(cvs_file, delimiter =';')
     for i in elements_to_CSV:
         writer.writerow([elements_to_CSV[i]['EAN'], elements_to_CSV[i]['TITLE']])           
 
