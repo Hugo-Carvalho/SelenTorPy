@@ -6,9 +6,10 @@ from selenium.webdriver.firefox.options import Options
 import re
 import os
 import time
+import csv
 
 codslist = []
-lines = open('message1.txt', 'r')
+lines = open('message.txt', 'r')
 for line in lines:
     codslist.append(line.strip())
 
@@ -54,7 +55,7 @@ elements_to_CSV = AutoTree()
 base_url = "https://pt.product-search.net/?q="
 
 
-driver = SelenTor.connect(r"C:\Users\<USER>\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe", r"C:\Users\<USER>\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default", True)
+driver = SelenTor.connect(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe", r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default", True)
 
 
 cods = tuple(codslist)
@@ -148,11 +149,15 @@ while keyCods < len(cods):
     except:
         pass
     finally:
-        pass
+        print("Gravar CSV")     
+        with open('Ean-list.csv', 'w', encoding='utf-8') as cvs_file:
+            writer = csv.writer(cvs_file, delimiter =';')
+            for i in elements_to_CSV:
+                writer.writerow([elements_to_CSV[i]['EAN'], elements_to_CSV[i]['TITLE']])  
 
 
 with open('Ean-list.csv', 'w', encoding='utf-8') as cvs_file:
-    writer = csv.writer(cvs_file, delimiter=';')
+    writer = csv.writer(cvs_file, delimiter =';')
     for i in elements_to_CSV:
         writer.writerow([elements_to_CSV[i]['EAN'],elements_to_CSV[i]['TITLE']])
 
