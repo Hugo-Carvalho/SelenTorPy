@@ -25,20 +25,8 @@ class AutoTree(dict):
 elements_to_CSV = AutoTree()
 
 
-# torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
-
-# profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
-
-# profile.set_preference('network.proxy.type', 1)
-# profile.set_preference('network.proxy.socks', '127.0.0.1')
-# profile.set_preference('network.proxy.socks_port', 9050)
-# profile.set_preference("network.proxy.socks_remote_dns", False)
-# profile.update_preferences()
-# driver = webdriver.Firefox(firefox_profile= profile, executable_path=r'geckodriver.exe')
-
 base_url = "https://pt.product-search.net/?q="
 
-# cods = ("010519", "0181652000638", "0181652011009", "0181652011528")
 
 torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
 profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
@@ -62,6 +50,7 @@ listElements = False
 excessiveUse = False
 
 keyCods = 0
+keyEans= 0
 # for cod, keyCods in cods:
 while keyCods < len(cods):
     
@@ -100,21 +89,20 @@ while keyCods < len(cods):
     try:
 
         time.sleep(2)
-
         if notFoundElement:
             info = "Não encontrado."
-            elements_to_CSV[keyCods]['EAN'] = cods[keyCods]
-            elements_to_CSV[keyCods]['TITLE'] = "Não encontrado"
+            elements_to_CSV[keyEans]['EAN'] = cods[keyCods]
+            elements_to_CSV[keyEans]['TITLE'] = "Não encontrado"
             keyCods += 1
+            keyEans += 1
         elif excessiveUse == True:
-            elements_to_CSV[keyCods]['EAN'] = cods[keyCods]
-            elements_to_CSV[keyCods]['TITLE'] = "Não Processado"
-
+            elements_to_CSV[keyEans]['EAN'] = cods[keyCods]
+            elements_to_CSV[keyEans]['TITLE'] = "Não Processado"
             os.system("taskkill  /f /im tor.exe")
             driver.close()
             time.sleep(2)
-            torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
-            profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
+            torexe = os.popen(r"C:\Users\luan2\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe")
+            profile = FirefoxProfile(r"C:\Users\luan2\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
 
             profile.set_preference('network.proxy.type', 1)
             profile.set_preference('network.proxy.socks', '127.0.0.1')
@@ -130,21 +118,22 @@ while keyCods < len(cods):
 
             for elemento in listElementos:
                 ean = elemento.get_attribute('href').replace('https://pt.product-search.net/ext/', '')
-                # TODO index conflict
-                elements_to_CSV[keyCods]['EAN'] = ean
-                elements_to_CSV[keyCods]['TITLE'] = elemento.text
+                elements_to_CSV[keyEans]['EAN'] = ean
+                elements_to_CSV[keyEans]['TITLE'] = elemento.text
+                keyEans += 1
 
-            keyCods += 1     
+            keyCods += 1   
         elif oneElement:
             info = driver.find_element(By.CSS_SELECTOR, ".col-md-8 > p:nth-child(3) > a").text
-            elements_to_CSV[keyCods]['EAN'] = cods[keyCods]
-            elements_to_CSV[keyCods]['TITLE'] = info
+            elements_to_CSV[keyEans]['EAN'] = cods[keyCods]
+            elements_to_CSV[keyEans]['TITLE'] = info
             keyCods += 1
+            keyEans += 1
         else:
-            elements_to_CSV[keyCods]['EAN'] = cods[keyCods]
-            elements_to_CSV[keyCods]['TITLE'] = 'Não foi possível retornar o EAN do produto'
+            elements_to_CSV[keyEans]['EAN'] = cods[keyCods]
+            elements_to_CSV[keyEans]['TITLE'] = 'Não foi possível retornar o EAN do produto'
             keyCods += 1
-
+            keyEans += 1
 
     except:
         pass
