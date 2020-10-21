@@ -2,6 +2,7 @@ import csv
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
 import re
 import os
 import time
@@ -21,6 +22,31 @@ class AutoTree(dict):
         value = self[key] = type(self)()
         return value
 
+class SelenTor(dict):
+    """Selenium with Tor Browser"""
+
+    def connect(pathTor, pathProfile, isHeadless):
+        torexe = os.popen(pathTor)
+        profile = FirefoxProfile(pathProfile)
+
+        profile.set_preference('network.proxy.type', 1)
+        profile.set_preference('network.proxy.socks', '127.0.0.1')
+        profile.set_preference('network.proxy.socks_port', 9050)
+        profile.set_preference("network.proxy.socks_remote_dns", False)
+        profile.update_preferences()
+        if isHeadless:
+            options = Options()
+            options.add_argument('--headless')
+            options.add_argument('--disable-gpu')  # Last I checked this was necessary.
+            return webdriver.Firefox(firefox_profile=profile, executable_path=r'geckodriver.exe', options=options)
+        else :
+            return webdriver.Firefox(firefox_profile=profile, executable_path=r'geckodriver.exe')
+
+
+    def disconnect(driver):
+        os.system("taskkill  /f /im tor.exe")
+        driver.close()
+
 
 elements_to_CSV = AutoTree()
 
@@ -28,15 +54,7 @@ elements_to_CSV = AutoTree()
 base_url = "https://pt.product-search.net/?q="
 
 
-torexe = os.popen(r"C:\TorBrowser\Browser\TorBrowser\Tor\tor.exe")
-profile = FirefoxProfile(r"C:\TorBrowser\Browser\TorBrowser\Data\Browser\profile.default")
-
-profile.set_preference('network.proxy.type', 1)
-profile.set_preference('network.proxy.socks', '127.0.0.1')
-profile.set_preference('network.proxy.socks_port', 9050)
-profile.set_preference("network.proxy.socks_remote_dns", False)
-profile.update_preferences()
-driver = webdriver.Firefox(firefox_profile=profile, executable_path=r'geckodriver.exe')
+driver = SelenTor.connect(r"C:\Users\<USER>\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe", r"C:\Users\<USER>\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default", True)
 
 
 cods = tuple(codslist)
@@ -98,18 +116,10 @@ while keyCods < len(cods):
         elif excessiveUse == True:
             elements_to_CSV[keyEans]['EAN'] = cods[keyCods]
             elements_to_CSV[keyEans]['TITLE'] = "Não Processado"
-            os.system("taskkill  /f /im tor.exe")
-            driver.close()
-            time.sleep(2)
-            torexe = os.popen(r"C:\Users\luan2\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe")
-            profile = FirefoxProfile(r"C:\Users\luan2\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default")
 
-            profile.set_preference('network.proxy.type', 1)
-            profile.set_preference('network.proxy.socks', '127.0.0.1')
-            profile.set_preference('network.proxy.socks_port', 9050)
-            profile.set_preference("network.proxy.socks_remote_dns", False)
-            profile.update_preferences()
-            driver = webdriver.Firefox(firefox_profile=profile, executable_path=r'geckodriver.exe')
+            SelenTor.disconnect(driver)
+            time.sleep(2)
+            driver = SelenTor.connect(r"C:\Users\<USER>\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe", r"C:\Users\<USER>\Desktop\Tor Browser\Browser\TorBrowser\Data\Browser\profile.default", True)
 
             driver.get(base_url + cods[keyCods])
 
@@ -148,3 +158,4 @@ with open('Ean-list.csv', 'w', encoding='utf-8') as cvs_file:
 
 print("Fim!")
 driver.quit()
+
